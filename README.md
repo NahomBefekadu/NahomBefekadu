@@ -1,4 +1,4 @@
-<img align="left" alt="Nahom | LinkedIn" width="22px" src="https://raw.githubusercontent.com/<NahomBefekadu>/<NahomBefekadu>/master/header.svg" />
+<img align="left" alt="Nahom | LinkedIn" width="22px" src="https://raw.githubusercontent.com/<NahomBefekadu>/<NahomBefekadu>/master/Frame_s.svg" />
 
 # Hi, I'm Nahom
 
