@@ -1,6 +1,8 @@
-<img align="left" alt="Nahom | LinkedIn" width="22px" src="https://raw.githubusercontent.com/<NahomBefekadu>/<NahomBefekadu>/master/Frame_s.svg" />
-
-# Hi, I'm Nahom
+<div align="left">
+	<p>
+		<img src="https://raw.githubusercontent.com/NahomBefekadu/NahomBefekadu/master/Frame_s.svg" width="400" height="400">
+	</p>
+</div>
 
 ## I'm a Developer, and Biomedical and Electrical Engineering Graduate.
 
@@ -16,7 +18,7 @@
 
 [<img align="left" alt="Nahom | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Nahom | LinkedIn" width="25px" color="#f03c15" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][linkedin]
+[<img align="left" alt="Nahom | email" width="25px" color="#f03c15" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][website]
 
 <br />
 
@@ -43,9 +45,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahomBefekadu&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: ##
+[linkedin]: ##
