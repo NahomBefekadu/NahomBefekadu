@@ -1,10 +1,10 @@
 <div align="left">
-	<p>
+	<a href="#">
 		<img src="https://raw.githubusercontent.com/NahomBefekadu/NahomBefekadu/master/Frame_s.svg" width="400" height="400">
-	</p>
+	</a>
 </div>
 
-## I'm a Developer, and Biomedical and Electrical Engineering Graduate.
+## I'm a Developer, Biomedical and Electrical Engineering and Computer Programming Graduate.
 
 - 🌱 I’m currently learning more about DevOps.
 - 🥅 2022 Goals:
