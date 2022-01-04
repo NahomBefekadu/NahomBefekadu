@@ -14,13 +14,18 @@
   - ☑️ contribute to Open Source projects.
   - ☑️ contribute to Non-Profit organizations as a Developer.
 
+### Notes
+You can find my notes here on various topics such as Data Structures, problems and questions, frameworks and more. It's an evergreen document that will soon contain usefull and important information.
+
 https://nahombefekadu.github.io/Dendron/
 
 ### Contact me on
-
-[<img align="left" alt="Nahom | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="Nahom | email" width="25px" color="#f03c15" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][website]
+<a target="_blank" href="#">
+  <img align="left" alt="LinkdeIN" width="22px" color="#0A66C2" src="https://freesvg.org/img/linkedin.png" />
+</a>
+<a target="_blank" href="nbefkadu@gmail.com">
+  <img align="left" alt="Gmail" width="22px" color="#EA4335" src="https://freesvg.org/img/gmail2.png" /> 
+</a>
 
 <br />
 
@@ -49,3 +54,4 @@ https://nahombefekadu.github.io/Dendron/
 
 [website]: ##
 [linkedin]: ##
+
