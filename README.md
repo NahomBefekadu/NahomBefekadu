@@ -1,6 +1,6 @@
 <div align="left">
 	<a href="https://github.com/NahomBefekadu?tab=repositories">
-		<img src="https://raw.githubusercontent.com/NahomBefekadu/NahomBefekadu/master/Frame_s.svg" width="400" height="400">
+		<img src="https://raw.githubusercontent.com/NahomBefekadu/NahomBefekadu/master/repoMainPic.svg" width="800" height="500">
 	</a>
 </div>
 
