@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning more about DevOps.
 - 🥅 2022 Goals:
   - ☑️ Graduate.
-  - ☑️ compete in Competitive Programming.
+  - ☑️ Explore Competitive Programming.
   - ☑️ complete 5 large scale projects.
   - ☑️ contribute to Open Source projects.
   - ☑️ contribute to Non-Profit organizations as a Developer.
