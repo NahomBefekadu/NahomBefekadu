@@ -5,10 +5,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Nahom, a Biomedical and Electrical Engineering and Computer Programming Graduate.
 <img align ="right" src="https://raw.githubusercontent.com/NahomBefekadu/NahomBefekadu/master/lofi.gif" width="500" height="320">
 
-- 🌱 I’m currently learning more about DevOps.
+- 🌱 I’m currently exploring three.js.
 - 🥅 2022 Goals:
   - ☑️ Graduate.
-  - ☑️ Explore Competitive Programming.
   - ☑️ complete 5 large scale projects.
   - ☑️ contribute to Open Source projects.
   - ☑️ contribute to Non-Profit organizations as a Developer.
