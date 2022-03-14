@@ -21,10 +21,10 @@ You can find find some of the notes i'm working on below:
 https://nahombefekadu.github.io/Dendron/
 
 ### Contact me on
-<a target="_blank" href="#">
+<a target="_blank" href="https://www.linkedin.com/in/nkby/">
   <img align="left" alt="LinkdeIN" width="22px" color="#0A66C2" src="https://freesvg.org/img/linkedin.png" />
 </a>
-<a target="_blank" href="nbefkadu@gmail.com">
+<a target="_blank" href="#">
   <img align="left" alt="Gmail" width="22px" color="#EA4335" src="https://freesvg.org/img/gmail2.png" /> 
 </a>
 
