@@ -13,7 +13,7 @@ https://nahom.dev/
 https://personal-ten-bay.vercel.app/
 
 ### Notes
-You can find find some of the notes i'm working on below:
+You can find find some of my notes on DS below:
 
 https://nahombefekadu.github.io/Dendron/
 
