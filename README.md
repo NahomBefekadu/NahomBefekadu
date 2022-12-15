@@ -2,7 +2,7 @@
 
 
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Nahom, a Biomedical and Electrical Engineering and Computer Programming Graduate.
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Nahom.
 <img align ="right" src="https://raw.githubusercontent.com/NahomBefekadu/NahomBefekadu/master/lofi.gif" width="500" height="320">
 
 - 🌱 I’m currently exploring three.js & Ruby.
